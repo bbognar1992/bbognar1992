@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi there! I'm Bence 👨‍💻
 
-<!--
-**bbognar1992/bbognar1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! 🚀 I'm a passionate **Python Developer** who loves turning ideas into elegant code and building solutions that make a difference.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🐍 About Me
+- 💻 Experienced in Python development with a focus on **backend applications** and **automation**.
+- 🌱 Currently diving deeper into **web scraping** and **cloud computing**.
+- 🎯 Fun fact: I enjoy experimenting with new python libraries.
+
+---
+
+## 🛠️ Tech Stack
+Here are the tools and technologies I work with:
+
+### Languages
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+- SQL, Shell Scripting
+
+### Frameworks & Libraries
+- Flask, Django, FastAPI, NumPy, Pandas, BeautifulSoup, Scrapy, SQLAlchemy
+
+### Tools & Platforms
+- Docker, Git, Linux, Postman, AWS, Azure
+
+---
+## 🌐 Connect with Me
+Let's collaborate and grow together! Reach out to me here:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/bbognar/)
+[![X](https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=flat-square)](https://x.com/bbognar0209)
+---
