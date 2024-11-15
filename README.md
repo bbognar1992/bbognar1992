@@ -36,6 +36,8 @@ Here are the tools and technologies I work with:
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)](https://www.postman.com)
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)](https://aws.amazon.com)
 [![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square)](https://azure.microsoft.com/)
+[![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat-square)](https://www.jetbrains.com/pycharm/)
+
 
 ---
 ## 🌐 Connect with Me
